@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="EMAILS">LyOXPxLdA9s2LYExzadyBbCa4Xuf6qRlw7DO2j/9ju0C9ytWYX4kwmcdxGNUumAfWTZLslPneLKm&#10;84HrEDf4Cw==&#10;    </string>
+    <string name="ttaccountid">njYgyfpnEaaE77UxrT2z/XYuUMh3xut8h7Dy4rw3GDs=&#10;    </string>
+    <string name="ttkey04">HFMAfbXk1sARaK6Co2cUTP3uj7l9oLg37gNUDnyRKcrmLkvE9Nz2fD392lkz2oF3&#10;    </string>
+    <string name="ttkey02">USDNyIf90wXg4ifLTVFb//qRobxlJjqOaAPAn/HHxBV2AmCeLiBi2R4+RZvZjhzaHhFa+HQDdVnw&#10;z+/gzSU9Ug==&#10;    </string>
+    <string name="ttaccverified">yPP8cCTr2SMXBptfcHWp1Q==&#10;    </string>
+    <string name="DND_TEXT">HhFa+HQDdVnwz+/gzSU9Ug==&#10;    </string>
+    <string name="DISTINGUISHED_NAME">HhFa+HQDdVnwz+/gzSU9Ug==&#10;    </string>
+    <string name="AVATAR_URL">HhFa+HQDdVnwz+/gzSU9Ug==&#10;    </string>
+    <boolean name="isOutgoingUpgradedToSQL4" value="true" />
+    <string name="DISABLED_CAPABILITIES">raJKDEp+2iAKN5sXgyK1Eg==&#10;    </string>
+    <string name="PHONES">P1yIxtdi1yy8a3QZynNq/r9wVB2kPKaaV6yIfYE4lE9ya8wnF0mb+kBARuNwYGUB&#10;    </string>
+    <string name="VIBRATE_FLAG">yPP8cCTr2SMXBptfcHWp1Q==&#10;    </string>
+    <string name="selectedUrlAuthority">https://api.tigertext.me</string>
+    <string name="CONTACTS_ORG_DISABLED">HhFa+HQDdVnwz+/gzSU9Ug==&#10;    </string>
+    <string name="DND">7rfQ5Iz594PBlfQYHtPljw==&#10;    </string>
+    <string name="encryption_salt">jQx+pvuo3TJ7aN9zPJnGPVTfIfrDG9uEkIHEVOZ6ez8=</string>
+    <string name="USERNAME">njYgyfpnEaaE77UxrT2z/XYuUMh3xut8h7Dy4rw3GDs=&#10;    </string>
+    <string name="VERIFIED">yPP8cCTr2SMXBptfcHWp1Q==&#10;    </string>
+    <string name="ttkey01">oum53H3VwmQoECodZfek7ckgo2qRrtta</string>
+    <boolean name="isUpgradedToSQL4" value="true" />
+    <string name="QUICK_REPLIES">wK/N9CPbJdNYn8zGrKWs2htWBgiUGX+8D6jM3ZePoUiZvJ/HSuwfopjTY+g16JMyHEUW3s7GY2hS&#10;/saluCAKik9vSbgA8a3LuG4O5Nn5fQpEhQwU+QZvyYrzl0yubfX3QjuUT4CU2AqPAHxv9wiDNE+L&#10;f7onaVq9VnMGkmmhOeb4I6+VygLhUuk6HrdOlJvacdQJPI5Vha2Ut1TJy/aGhkMVaR9WAapBS/KU&#10;1uDTEyEGW3rMxVp91TtcM6HMPZx+&#10;    </string>
+    <string name="RINGTONE">j5oms5zgWoOBn8KFKhyTpfSSPjP//Wy2U0hAercO2MTd971L6qLRaTRkAvVbUqzn&#10;    </string>
+    <string name="LAST_NAME">6LIrt7mthe/8mXWXHR0OBQ==&#10;    </string>
+    <string name="ttkeyacchash">97fe33ff83e289fcc5ca0e6c81d1460</string>
+    <string name="STATUS">HhFa+HQDdVnwz+/gzSU9Ug==&#10;    </string>
+    <string name="FIRST_NAME">2CsF43oveqWEzP/F+N67xA==&#10;    </string>
+    <string name="DISPLAY_NAME">5IWkow7Wya0LW8Qc3NCBpQ==&#10;    </string>
+    <boolean name="firstTimeInit" value="true" />
+    <string name="ttkey03">SoLHtIG19Cee6O+cYt/yLCkRxDw4uso8hlJHxyyyyHAk7hSr0N93DvjZY77LK36U&#10;    </string>
+    <boolean name="isSDKUpgradedToSupportAndroidNDone" value="true" />
+    <string name="NOTIF_FLAG">yPP8cCTr2SMXBptfcHWp1Q==&#10;    </string>
+</map>
+
